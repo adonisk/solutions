@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+    {% include header.html %}
+
+    <div class="container-fluid"  style="background-color:#F2F2F2">
+			<div class="row">
+				<div class="col-md-2" id="leftnav">
+					<div id="toc"></div>
+				</div>
+				<div class="col-md-9" id="content"  style="background-color:white">
+					<div class="page-header">
+						<h1>{{ page.title }}&nbsp;<small>{{ page.description }}</small></h1>
+					</div>
+					<div class="page-content">
+						{{ content }}
+					</div>
+				</div>
+				<div class="col-md-1" style="background-color:white">
+				</div>
+			</div>
+		</div>
+    {% include footer.html %}
+  </body>
+
+</html>
+

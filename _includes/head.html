@@ -1,0 +1,28 @@
+
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+		<title>
+			{% if page.title %} {{ page.title }} {% else %} {{ site.title }} {% endif %}
+		</title>
+    
+		{% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
+    <meta name="author" content="{{ site.author.name }}">
+
+    <!-- Enable responsive viewport -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Bootstrap styles -->
+    <link rel="stylesheet" href="{{site.baseurl}}/css/bootstrap.min.css">
+    <link rel="stylesheet" href="{{site.baseurl}}/css/bootstrap-theme.min.css">
+    
+    <!-- Custom styles -->
+    <link rel="stylesheet" href="{{site.baseurl}}/css/style.css" type="text/css" media="all">
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <script src="{{site.baseurl}}/js/bootstrap.min.js"></script>
+    <script src="{{site.baseurl}}/js/toc.js"></script>
+    <script src="{{site.baseurl}}/js/style.js"></script>
+</head>
+

@@ -1,0 +1,21 @@
+# Site settings
+title: Docs
+email: proserv@ezetap.com
+description: Home for Ezetap integration related documentation
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://docs.ezetap.com" # the base hostname & protocol for your site
+download_url: "http://ezetap.github.io/downloads"
+
+# twitter_username: jekyllrb
+# github_username:  jekyll
+
+# Build settings
+markdown: kramdown
+
+
+page_types:
+ - Client Side
+ - Server Side
+ - Help
+
+home_category: home
