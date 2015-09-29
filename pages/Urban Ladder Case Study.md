@@ -15,6 +15,8 @@ have the flexibility to integrate with other business applications or enhance
 our solution to expose other business specific parameters in the MPOS
 application
 
+![eze-overview.png]({{site.baseurl}}/images/eze-overview.png)
+
 ---
 
 ## The Challenge
@@ -25,6 +27,8 @@ Urban Ladder is not only faced with massive growth but is also witnessing tough 
 
 ## The Solution
 Urban Ladder had its own mobile application for delivery agents to manage deliveries, pay on deliver payments and document customer feedback. Ezetap's integration allowed Urban Ladder to accept all card payments and track customer interaction. This solidified the frictionless payment transaction that Urban Ladder was looking for.
+
+![UL-solution.png]({{site.baseurl}}/images/UL-solution.png)
 
 ---
 ## The Breakthrough

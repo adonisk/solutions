@@ -33,6 +33,8 @@ have the flexibility to integrate with other business applications or enhance
 our solution to expose other business specific parameters in the MPOS
 application
 
+
+![eze-overview.png]({{site.baseurl}}/images/eze-overview.png)
 ---
 
 ## The Challenge
@@ -43,7 +45,9 @@ ACT Broadband's primary challenge was that their sales and collections agents of
 
 ## The Solution
 
-Ezetap designed a single Mobile Point of Sale application with the ability to collect card payments for ACT sales and collections executives, wherein, upon login, the agent could download their sales or collections list to an offline store on their mobile device (list could only be accessed through the Ezetap application) as well as collect offline payments that would auto sync to the ACT server when the agent was online.	
+Ezetap designed a single Mobile Point of Sale application with the ability to collect card payments for ACT sales and collections executives for broadband and cable services, wherein, upon login, based on the agent's profile they could download their broadband sales or broadband and cable collections list to an offline store on their mobile device (the lists could only be accessed through the Ezetap application). Upon receiving their daily list, the agent could collect payments through several methods depending on whether they were in an area with strong or weak network reception.
+
+![ACT-solution.png]({{site.baseurl}}/images/ACT-solution.png)
 
 ---
 
@@ -51,17 +55,22 @@ Ezetap designed a single Mobile Point of Sale application with the ability to co
 
 ### Increased efficiency via offline collections and payments ###
 
-By integrating with Ezetap, ACT Broadband agents were able to download their daily collections list every morning to an offline store and collect payments from customers without worrying about network issues. The result of this was more payment collections on a daily basis
+By integrating with Ezetap, ACT Broadband agents were able to download their daily collections list every morning to a local data store and collect payments from customers without worrying about network issues. If the agent was "online", they could enter customer account number or CAF No. and fetch customer details from the offline store. If the agent was "offline", they could enter the relevant customer details and still collect a payment which would be posted online once the agent had network connectivity. The integration with Ezetap enabled an seamless offline to online payment sync
 
-### Improved documentation and tracking of customer interaction ###
+### Improved Payment Collection Experience ###
 
-Ezetap's customized application enabled sales and collections agents document customer interaction in a digital manner that could easily be recorded in backend systems. If the agent was in an area with poor connectivity, they could still process a payment through a digital receipt without fetching customer details. If the customer was not available, the agent could record an uncollected payment.
+Ezetap's solution opened a new payment avenue for ACT Boadband's customers. By enabling card payments, collection runs were completed on time and agents could focus their attention on upselling features. 
 
 ### Increased Customer Satisfaction ###
 
-The ability for an agent to collect a card payment at the customer's doorstep was convenient and time saving since customers otherwise had to go to a store and make a payment to avoid service interruption.
+Ezetap's card payment capability provided customer's with a more convenient option of paying their bills. Customer's who previously risked service interruption if they did not have cash on hand, could make payments using a card and receive digital receipts and invoices in real time. 
 
 ### Enhanced Reporting Capabilities ###
 
-By providing additional customization through the mobile application, ACT Broadband was able to enhance its reporting capabilities significantly. The customization enabled reporting against successful payments, offline payments and  uncollected payments on a daily, weekly and monthly basis. 
+Ezetap enabled additional customization on the Mobile Application for ACT Broadband including separate login credentials for collections and sales agents, Digital Receipts (for offline transactions) and Service Level Complaints (when customers were unavailable). ACT Broadband executives could track status of online and offline payments successful payments, failed payments and uncollected payments on a daily, weekly or monthly basis. These additional insights significantly improved ACT Broadband's operational efficiency.
 
+## Wireframes
+
+![ACT-wireframes.png]({{site.baseurl}}/images/ACT-wireframes.png)
+
+![ACT-wireframe.png]({{site.baseurl}}/images/ACT-wireframe.png)
