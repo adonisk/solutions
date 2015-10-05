@@ -27,10 +27,10 @@ Ezetap provides several integration options based on client specific needs:
 
 ---
 
-### Basic Mobile Point of Sale (MPOS)
+### Basic MPOS
 This is a simple MPOS application developed by Ezetap that can be used solely for the purpose of collecting payments from a customer. The basic MPOS has the functionality to populate generic fields (Amount, Reference number etc.), collect a payment and send a digital receipt. Ezetap will send an apk file to the client to download the MPOS. Clients who have implemented the basic MPOS are **Retail stores and Kirana stores.**
 
-### Ezetap SDK (Software Development Kit)
+### Ezetap SDK 
 Ezetap exposes client side SDK to enable businesses integrate the Ezetap payment flow into their existing mobile, tablet or desktop applications via a standard SDK integration. Ezetap's SDK consists of a Basic POS and payment integration solution. Clients can either use the Basic MPOS and SDK or just the SDK, depending on whether they have an in house payment collection application.Ezetap offers SDK integration on Android (Hybrid JS and Native Android) and Windows platforms. The Ezetap SDK's can be downloaded [here](http://docs.ezetap.com).  
 
 
