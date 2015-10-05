@@ -23,7 +23,7 @@ application.
 Ezetap provides several integration options based on client specific needs:
 
 
-![implementation-options.png]({{site.baseurl}}images/implementation-options.png)
+![implementation-options.png]({{site.baseurl}}/images/Implementation-options.png)
 
 ---
 
