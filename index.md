@@ -43,7 +43,7 @@ The Ezetap Merchant Portal gives clients access to review and monitor all transa
 Ezetap exposes a notifications API as a callback feature for a client to receive notification of payment transactions (success or failure). The primary benefit of this service is auto-reconciliation of daily transactions between client server and Ezetap server.
 
 
-# Successful Implementation across Industries
+# Success Stories
 
 ### E-Commerce
 Ezetap's payment solution has several benefits to e-commerce companies:
