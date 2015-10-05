@@ -56,7 +56,7 @@ Ezetap's payment solution has several benefits to e-commerce companies:
 - *Geo tagging capability to determine exact location of delivery*
 - *Ability to monitor payment collections in real-time*
 
-Ezetap successfully implemented an SDK integration for Urban Ladder. Click [here]({{site.baseurl}}/pages/Urban Ladder.html) for additional details on our partnership. 
+Ezetap successfully implemented an SDK integration for Urban Ladder. Click [here]({{site.baseurl}}/pages/Urban Ladder.html) to access the case study. 
  
 ![ecomm-overview.png]({{site.baseurl}}/images/ecomm-overview.png)
 
@@ -75,6 +75,8 @@ Ezetap's payment solution has several benefits to Bill Payment & Collections com
 - *Ability to access collection run sheets offline on mobile device and collect payments*
 - *Shopping cart functionality to make payments against multiple lines*
 - *On time settlement via end of day auto-reconciliation of payment transactions*
+
+Ezetap successfully implemented a custom MPOS and SDK integration for Airtel and ACT Broadband. click [Airtel]({{site.baseurl}}/pages/Airtel.html) or [ACT]({{site.baseurl}}/pages/ACT.html) to access the case study
 
 ![collections-overview.png]({{site.baseurl}}/images/collections-overview.png)
 
