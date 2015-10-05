@@ -49,8 +49,8 @@ Ezetap exposes a notifications API as a callback feature for a client to receive
 Ezetap's payment solution has several benefits to e-commerce companies:
 
 
-- *Ability to offer card payment on delivery*
-- *Ability to offer EMI service on delivery*
+- *Ability to offer card payment and EMI services on delivery*
+- *Geo tagging capability to determine exact location of delivery*
 - *Ability to monitor payment collections in real-time*
  
 ![ecomm-overview.png]({{site.baseurl}}/images/ecomm-overview.png)
@@ -63,16 +63,6 @@ Ezetap's payment solution has several benefits to insurance companies:
 - *Higher customer satisfaction by offering multiple payment options at customer doorstep* 
 
 ![insurance-overview.png]({{site.baseurl}}/images/insurance-overview.png)
-
-### Delivery
-Ezetap's payment solution has several benefits to delivery companies:
-
-- *Geo tagging capability to determine exact location of delivery*
-- *Ability to create digital run sheets on mobile device for each delivery agent*
-- *Improved business efficiency by real-time documenting and tracking of successful and unsuccessful deliveries*
- 
-![delivery-overview.png]({{site.baseurl}}/images/delivery-overview.png)
-
 
 ### Bill Payment & Collections
 Ezetap's payment solution has several benefits to Bill Payment & Collections companies:
