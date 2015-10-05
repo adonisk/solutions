@@ -53,7 +53,7 @@ Ezetap's payment solution has several benefits to e-commerce companies:
 - *Ability to offer EMI service on delivery*
 - *Ability to monitor payment collections in real-time*
  
-![ecomm-overview.png]({{site.baseurl}}/customers/images/ecomm-overview.png)
+![ecomm-overview.png]({{site.baseurl}}/images/ecomm-overview.png)
 
 ### Insurance
 Ezetap's payment solution has several benefits to insurance companies:
@@ -62,7 +62,7 @@ Ezetap's payment solution has several benefits to insurance companies:
 - *Ability to maintain digital run sheet of insurance sales and renewal collections*
 - *Higher customer satisfaction by offering multiple payment options at customer doorstep* 
 
-![insurance-overview.png]({{site.baseurl}}/customers/images/insurance-overview.png)
+![insurance-overview.png]({{site.baseurl}}/images/insurance-overview.png)
 
 ### Delivery
 Ezetap's payment solution has several benefits to delivery companies:
@@ -71,7 +71,7 @@ Ezetap's payment solution has several benefits to delivery companies:
 - *Ability to create digital run sheets on mobile device for each delivery agent*
 - *Improved business efficiency by real-time documenting and tracking of successful and unsuccessful deliveries*
  
-![delivery-overview.png]({{site.baseurl}}/customers/images/delivery-overview.png)
+![delivery-overview.png]({{site.baseurl}}/images/delivery-overview.png)
 
 
 ### Bill Payment & Collections
@@ -81,9 +81,9 @@ Ezetap's payment solution has several benefits to Bill Payment & Collections com
 - *Shopping cart functionality to make payment against multiple lines*
 - *On time settlement via end of day auto-reconciliation of payment transactions*
 
-![collections-overview.png]({{site.baseurl}}/customers/images/collections-overview.png)
+![collections-overview.png]({{site.baseurl}}/images/collections-overview.png)
 
 
 ### Other Verticals
   
-![other-overview.png]({{site.baseurl}}/customers/images/other-overview.png)
+![other-overview.png]({{site.baseurl}}/images/other-overview.png)
