@@ -39,7 +39,7 @@ Ezetap exposes client side SDK to enable businesses integrate the Ezetap payment
 ### Merchant Portal
 The Ezetap Merchant Portal gives clients access to review and monitor all transactions posted to the Ezetap server. A merchant can be setup with various roles in the Portal to enable additional features such as performing a void or refund on a transaction. 
 
-### Notification API
+### Notifications API
 Ezetap exposes a notifications API as a callback feature for a client to receive notification of payment transactions (success or failure). The primary benefit of this service is auto-reconciliation of daily transactions between client server and Ezetap server.
 
 
