@@ -6,7 +6,7 @@ layout: default
 
 
 
-# Overview
+# Overview #
 
 Ezetap is an online payments processing company that is transforming the
 payments space by allowing merchants previously limited by ordinary POS device
@@ -18,7 +18,7 @@ application.
 ![eze-overview.png]({{site.baseurl}}/images/eze-overview.png)
 
 
-# Our Solutions
+# Our Solutions #
 
 Ezetap provides several integration options based on client specific needs:
 
@@ -34,7 +34,7 @@ This is a simple MPOS application developed by Ezetap that can be used solely fo
 Ezetap exposes client side SDK to enable businesses integrate the Ezetap payment flow into their existing mobile, tablet or desktop applications via a standard SDK integration. Ezetap's SDK consists of a Basic POS and payment integration solution. Clients can either use the Basic MPOS and SDK or just the SDK, depending on whether they have an in house payment collection application.Ezetap offers SDK integration on Android (Hybrid JS and Native Android) and Windows platforms. The Ezetap SDK's can be downloaded [here](http://docs.ezetap.com).  
 
 
-# Additional Features
+# Additional Features #
 
 ### Merchant Portal
 The Ezetap Merchant Portal enables clients to review and monitor all transactions posted to the Ezetap server. A merchant can be setup with various roles in the Portal with additional features such as performing a void or refund on a transaction. 
@@ -46,7 +46,7 @@ Ezetap exposes a notifications API as a callback feature for a client to receive
 
 Please visit [Notifications API](http://docs.ezetap.com/pages/server-notification-api.html) page for more details.
 
-# Success Stories
+# Success Stories #
 
 ### E-Commerce
 Ezetap's payment solution has several benefits to e-commerce companies:
