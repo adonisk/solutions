@@ -1,73 +1,89 @@
 ---
-title: Doc Central
+title: Solutions
 description: Home for Ezetap integration related documents
 layout: default
 ---
 
-##Overview##
 
-Ezetap offers a mobile point of sale (POS) solution that enables customers to collect payment anywhere, anytime and in any instrument form (cash, credit/debit card, cheque or demand draft) directly from a mobile phone. 
 
-Here is the overview of Ezetap solution:
+# Overview
+
+Ezetap is an online payments processing company that is transforming the
+payments space by allowing merchants previously limited by ordinary POS device
+to utilize an intelligent mobile POS. As Ezetap’s solution is a mobile POS, we
+have the flexibility to integrate with other business applications or enhance
+our solution to expose other business specific parameters in the MPOS
+application.
 
 ![eze-overview.png]({{site.baseurl}}/images/eze-overview.png)
 
-For card payment, the customer’s credit or debit card information is captured in an EMV and PCI certified Ezetap device, either via magnetic stripe or chip card reader in the device. The Ezetap device is connected to the mobile phone via USB or Bluetooth. Customer’s card PIN is also captured in a secured PIN entry area on the device. The captured card information and PIN is securely sent via the mobile phone to Ezetap server and to the corresponding payment processors (banks) for approvals.
 
-In addition, for certain transactions, customer’s signature is captured in a digital format directly from the mobile phone and securely stored on Ezetap servers along with the transaction details. An electronic charge slip (e-Charge) is also delivered directly to the customers via SMS or E-mail. 
+# Our Solutions
 
-The following picture depicts the transaction flow for payments:
-
-![eze-overview.png]({{site.baseurl}}/images/eze-flow.png)
-
-For the purpose of reconciliation, after completion of each transaction, a callback mechanism can be setup on the Ezetap server to update a customer's backend system with the transaction details. At the end of the day, for card based transactions, an automated settlement process runs at night to settle all the transactions for the day. 
-
-An online merchant portal provides a unified access to review all the business transactions and to void or cancel customer’s transactions.
+Ezetap provides several integration options based on client specific needs:
 
 
+![implementation-options.png]({{site.baseurl}}/images/implementation-options.png)
+
+---
+
+### Basic Mobile Point of Sale (MPOS)
+This is a simple MPOS application developed by Ezetap that can be used solely for the purpose of collecting payments from a customer. The basic MPOS has the functionality to populate generic fields (Amount, Reference number etc.), collect a payment and send a digital receipt. Ezetap will send an apk file to the client to download the basic POS. Clients who have implemented the basic MPOS are **Retail stores and Kirana stores.**
+
+### Ezetap SDK (Software Development Kit)
+Ezetap exposes client side SDK to enable businesses integrate the Ezetap payment flow into their existing mobile, tablet or desktop applications via a standard SDK integration. Ezetap's SDK consists of a Basic POS and payment integration solution. Clients can either use the Basic MPOS and SDK or just the SDK, depending on whether they have an in house payment collection application.Ezetap offers SDK integration on Android (Hybrid JS and Native Android) and Windows platforms. The Ezetap SDK's can be downloaded [here](http://docs.ezetap.com). Clients who have implemented the SDK are **Amazon, Myntra, BAGIC, Airtel, Urban Ladder, Pepperfry etc**. 
 
 
-## Client Side ##
+# Additional Features
 
-Ezetap exposes client side SDKs to enable businesses to integrate `Ezetap POS` into their existing mobile, tablet or desktop applications via a standard SDK integration.
+### Merchant Portal
+The Ezetap Merchant Portal gives clients access to review and monitor all transactions posted to the Ezetap server. A merchant can be setup with various roles in the Portal to enable additional features such as performing a void or refund on a transaction. 
 
-Ezetap SDK is available in the following platforms:
+### Notification API
+Ezetap exposes a notifications API as a callback feature for a client to receive notification of payment transactions (success or failure). The primary benefit of this service is auto-reconciliation of daily transactions between client server and Ezetap server.
 
-1. Android (``Android 2.2 or higher``)
-2. Windows (``Windows 7 and 8.1``) 
 
-Support for other platforms will be released shortly.
+# Successful Implementation across Industries
 
-### Android SDK ###
-Android SDK is available in the following two flavors to get your ideas implemented with Ezetap. You can choose whichever works for you!
+### E-Commerce
+Ezetap's payment solution has several benefits to e-commerce companies:
 
-####Hybrid JS ####
 
-The simpler approach is to use HTML5 skills to make a web page and when you are ready to collect payment, call a simple Javascript function. This enables you to leverage full power of Google Chrome browser on the mobile or tablet. All you need is decent grasp of HTML, CSS and Javascript. It helps a lot if you are familiar with common libraries available on the client side. As far as Ezetap integration goes, all you need to do is to call one Javascript function when you are ready, with a JSON input.
+- *Ability to offer card payment on delivery*
+- *Ability to offer EMI service on delivery*
+- *Ability to monitor payment collections in real-time*
+ 
+![ecomm-overview.png]({{site.baseurl}}/customers/images/ecomm-overview.png)
 
-Please visit [Android SDK - Hybrid JS]({{site.baseurl}}/pages/client-android-hybrid.html) home page for more details.
+### Insurance
+Ezetap's payment solution has several benefits to insurance companies:
 
-####Native Android ####
+- *Increase sale of insurance policies by offering card payment at customer's doorstep*
+- *Ability to maintain digital run sheet of insurance sales and renewal collections*
+- *Higher customer satisfaction by offering multiple payment options at customer doorstep* 
 
-Second approach is to do native Android app development. Ezetap provides an SDK that you can integrate to your app. Naturally, this requires you to  have a good grasp of Android app development, building APKs etc. Ezetap integration involves setting up a project, importing a library and then actual coding involves few lines of code. Upside of this is that you get all features available on the native platform and you are not limited by the browser.
+![insurance-overview.png]({{site.baseurl}}/customers/images/insurance-overview.png)
 
-Please visit [Android SDK - Native]({{site.baseurl}}/pages/client-android-native.html) home page for more details.
+### Delivery
+Ezetap's payment solution has several benefits to delivery companies:
 
-### Windows SDK ###
+- *Geo tagging capability to determine exact location of delivery*
+- *Ability to create digital run sheets on mobile device for each delivery agent*
+- *Improved business efficiency by real-time documenting and tracking of successful and unsuccessful deliveries*
+ 
+![delivery-overview.png]({{site.baseurl}}/customers/images/delivery-overview.png)
 
-On the Windows platform, Ezetap windows SDK is currently supported in Windows 7 and 8.1 versions. The SDK is  is implemented in C# and is available as a standard .NET library (version 4.5). It can be integrated into any existing .NET application as a DLL included as a project reference.
 
-Please visit [Windows SDK]({{site.baseurl}}/pages/client-windows.html) home page for more details.
+### Bill Payment & Collections
+Ezetap's payment solution has several benefits to Bill Payment & Collections companies:
 
-##Server Side##
+- *Ability to store collection run sheets offline on mobile device and collect payments offline*
+- *Shopping cart functionality to make payment against multiple lines*
+- *On time settlement via end of day auto-reconciliation of payment transactions*
 
-###Merchant Portal###
+![collections-overview.png]({{site.baseurl}}/customers/images/collections-overview.png)
 
-Merchant portal gives you access to all the transactions posted on Ezetap server as well as other configurations related to merchants and users. Based on the user's role and access privilege, he or she can perform various activities on the transaction like void, refund etc. 
 
-Please visit [Merchant Portal]({{site.baseurl}}/pages/server-merchant-portal.html) home page for more details.
-
-###Notification API###
-Ezetap exposes a Notification API as a callback for customer's to receive notification of payment transactions (success or failure). This can be used for reconciling customer's backend systems with Ezetap payment transaction details. Any references passed to Ezetap SDK at the client end as part of a payment transaction will be sent in via the callback API as well.
-
-Please visit [Notification API]({{site.baseurl}}/pages/server-notification-api.html) home page for more details.
+### Other Verticals
+  
+![other-overview.png]({{site.baseurl}}/customers/images/other-overview.png)
