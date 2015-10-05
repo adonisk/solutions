@@ -67,12 +67,11 @@ Ezetap's payment solution has several benefits to insurance companies:
 ### Bill Payment & Collections
 Ezetap's payment solution has several benefits to Bill Payment & Collections companies:
 
-- *Ability to store collection run sheets offline on mobile device and collect payments offline*
-- *Shopping cart functionality to make payment against multiple lines*
+- *Ability to access collection run sheets offline on mobile device and collect payments*
+- *Shopping cart functionality to make payments against multiple lines*
 - *On time settlement via end of day auto-reconciliation of payment transactions*
 
 ![collections-overview.png]({{site.baseurl}}/images/collections-overview.png)
-
 
 ### Other Verticals
   
