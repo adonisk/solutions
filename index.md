@@ -56,7 +56,7 @@ Ezetap's payment solution has several benefits to e-commerce companies:
 - *Geo tagging capability to determine exact location of delivery*
 - *Ability to monitor payment collections in real-time*
 
-Ezetap successfully implemented a SDK integration for Urban Ladder. Click [Urban Ladder]({{site.baseurl}}/pages/Urban Ladder.html) to access the case study. 
+Ezetap successfully implemented a SDK integration for Urban Ladder. Click [Urban Ladder]({{site.baseurl}}/pages/urban-ladder.html) to access the case study. 
  
 ![ecomm-overview.png]({{site.baseurl}}/images/ecomm-overview.png)
 
@@ -78,12 +78,12 @@ Ezetap's payment solution has several benefits to Bill Payment & Collections com
 - *Shopping cart functionality to make payments against multiple lines*
 - *On time settlement via end of day auto-reconciliation of payment transactions*
 
-Ezetap successfully implemented a custom MPOS and SDK integration for Airtel and ACT Broadband. Click [Airtel]({{site.baseurl}}/pages/Airtel.html) or [ACT Broadband]({{site.baseurl}}/pages/ACT.html) to access the case studies.
+Ezetap successfully implemented a custom MPOS and SDK integration for Airtel and ACT Broadband. Click [Airtel]({{site.baseurl}}/pages/airtel.html) or [ACT Broadband]({{site.baseurl}}/pages/act-broadband.html) to access the case studies.
 
 ![collections-overview.png]({{site.baseurl}}/images/collections-overview.png)
 
 ### Other Verticals
 
-Ezetap successfully implemented a SDK integration for Mahanagar Gas Ltd. Click [Mahanagar]({{site.baseurl}}/pages/Mahanagar.html) to access the case study.
+Ezetap successfully implemented a SDK integration for Mahanagar Gas Ltd. Click [Mahanagar]({{site.baseurl}}/pages/mahanagar.html) to access the case study.
   
 ![other-overview.png]({{site.baseurl}}/images/other-overview.png)
