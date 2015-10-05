@@ -56,7 +56,7 @@ Ezetap's payment solution has several benefits to e-commerce companies:
 - *Geo tagging capability to determine exact location of delivery*
 - *Ability to monitor payment collections in real-time*
 
-Ezetap successfully implemented an SDK integration for Urban Ladder. Click [here]({{site.baseurl}}/pages/Urban Ladder.html) to access the case study. 
+Ezetap successfully implemented an SDK integration for Urban Ladder. Click [Urban Ladder]({{site.baseurl}}/pages/Urban Ladder.html) to access the case study. 
  
 ![ecomm-overview.png]({{site.baseurl}}/images/ecomm-overview.png)
 
