@@ -78,7 +78,7 @@ Ezetap's payment solution has several benefits to Bill Payment & Collections com
 - *Shopping cart functionality to make payments against multiple lines*
 - *On time settlement via end of day auto-reconciliation of payment transactions*
 
-Ezetap successfully implemented a custom MPOS and SDK integration for Airtel and ACT Broadband. Click [airtel]({{site.baseurl}}/pages/airtel.html) or [act-broadband]({{site.baseurl}}/pages/act-broadband.html) to access the case studies.
+Ezetap successfully implemented a custom MPOS and SDK integration for Airtel and ACT Broadband. Click [airtel]({{site.baseurl}}/pages/airtel.html) or [act broadband]({{site.baseurl}}/pages/act-broadband.html) to access the case studies.
 
 ![collections-overview.png]({{site.baseurl}}/images/collections-overview.png)
 
