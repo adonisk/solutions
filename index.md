@@ -56,7 +56,7 @@ Ezetap's payment solution has several benefits to e-commerce companies:
 - *Geo tagging capability to determine exact location of delivery*
 - *Ability to monitor payment collections in real-time*
 
-Ezetap successfully implemented an SDK integration for Urban Ladder. Click [Urban Ladder]({{site.baseurl}}/pages/Urban Ladder.html) to access the case study. 
+Ezetap successfully implemented a SDK integration for Urban Ladder. Click [Urban Ladder]({{site.baseurl}}/pages/Urban Ladder.html) to access the case study. 
  
 ![ecomm-overview.png]({{site.baseurl}}/images/ecomm-overview.png)
 
@@ -66,6 +66,8 @@ Ezetap's payment solution has several benefits to insurance companies:
 - *Increase sale of insurance policies by offering card payment at customer's doorstep*
 - *Ability to maintain digital run sheet of insurance sales and renewal collections*
 - *Higher customer satisfaction by offering multiple payment options at customer doorstep* 
+
+Ezetap successfully implemented a SDK integration with Bajaj Insurance. Click [BAGIC]({{http://site.ezetap.com/bajaj-alliance-case-study.html) to access the case study.
 
 ![insurance-overview.png]({{site.baseurl}}/images/insurance-overview.png)
 
@@ -81,5 +83,7 @@ Ezetap successfully implemented a custom MPOS and SDK integration for Airtel and
 ![collections-overview.png]({{site.baseurl}}/images/collections-overview.png)
 
 ### Other Verticals
+
+Ezetap successfully implemented a SDK integration for Mahanagar Gas Ltd. Click [Mahanagar]({{site.baseurl}}/pages/Mahanagar.html) to access the case study.
   
 ![other-overview.png]({{site.baseurl}}/images/other-overview.png)
