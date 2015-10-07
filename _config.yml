@@ -2,13 +2,8 @@
 title: Solutions
 email: proserv@ezetap.com
 description: Home for Ezetap integration related documentation
-<<<<<<< HEAD
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://docs.ezetap.com" # the base hostname & protocol for your site
-=======
 baseurl: "solutions" # the subpath of your site, e.g. /blog/
-#url: "http://ezetap.github.io/solutions" # the base hostname & protocol for your site
->>>>>>> origin/gh-pages
+# url: "http://ezetap.github.io/solutions" # the base hostname & protocol for your site
 download_url: "http://ezetap.github.io/downloads"
 
 # twitter_username: jekyllrb
