@@ -3,7 +3,7 @@ title: Solutions
 email: proserv@ezetap.com
 description: Home for Ezetap integration related documentation
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://ezetap.github.io/solutions" # the base hostname & protocol for your site
+url: "http://ezetap.github.io" # the base hostname & protocol for your site
 download_url: "http://ezetap.github.io/downloads"
 
 # twitter_username: jekyllrb
