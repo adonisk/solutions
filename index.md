@@ -67,7 +67,7 @@ Ezetap's payment solution has several benefits to insurance companies:
 - *Maintenance of  digital run sheet of insurance sales and renewal collections*
 - *Higher customer satisfaction through multiple payment offerings at customer doorstep* 
 
-Ezetap successfully implemented a SDK integration with BAGIC, India's leadin private general insurance company. Click [BAGIC](http://site.ezetap.com/bajaj-alliance-case-study) to access the case study.
+Ezetap successfully implemented a SDK integration with BAGIC, India's leading private general insurance company. Click [BAGIC](http://site.ezetap.com/bajaj-alliance-case-study) to access the case study.
 
 ![insurance-overview.png]({{site.baseurl}}/images/insurance-overview.png)
 
