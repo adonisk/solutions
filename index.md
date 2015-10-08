@@ -56,7 +56,7 @@ Ezetap's payment solution has several benefits to e-commerce companies:
 - *Geo tagging capability to determine exact location of delivery*
 - *Monitoring payment collections in real-time*
 
-Ezetap successfully implemented a SDK integration for Urban Ladder. Click [urban ladder]({{site.baseurl}}/pages/urban-ladder.html) to access the case study. 
+Ezetap successfully implemented a SDK integration for Urban Ladder, a home decor and furniture platform. Click [urban ladder]({{site.baseurl}}/pages/urban-ladder.html) to access the case study. 
  
 ![ecomm-overview.png]({{site.baseurl}}/images/ecomm-overview.png)
 
@@ -67,7 +67,7 @@ Ezetap's payment solution has several benefits to insurance companies:
 - *Maintenance of  digital run sheet of insurance sales and renewal collections*
 - *Higher customer satisfaction through multiple payment offerings at customer doorstep* 
 
-Ezetap successfully implemented a SDK integration with Bajaj Insurance. Click [BAGIC](http://site.ezetap.com/bajaj-alliance-case-study) to access the case study.
+Ezetap successfully implemented a SDK integration with BAGIC, India's leadin private general insurance company. Click [BAGIC](http://site.ezetap.com/bajaj-alliance-case-study) to access the case study.
 
 ![insurance-overview.png]({{site.baseurl}}/images/insurance-overview.png)
 
@@ -78,7 +78,7 @@ Ezetap's payment solution has several benefits to Bill Payment & Collections com
 - *Shopping cart functionality to make payments against multiple lines*
 - *On time settlement via end of day auto-reconciliation of payment transactions*
 
-Ezetap successfully implemented a custom MPOS and SDK integration for Airtel (nationwide) and ACT Broadband (Bangalore). Click [airtel]({{site.baseurl}}/pages/airtel.html) or [act broadband]({{site.baseurl}}/pages/act-broadband.html) to access the case studies.
+Ezetap successfully implemented a custom MPOS and SDK integration for Airtel (Nationwide) and ACT Broadband (Bangalore). Click [airtel]({{site.baseurl}}/pages/airtel.html) or [act broadband]({{site.baseurl}}/pages/act-broadband.html) to access the case studies.
 
 ![collections-overview.png]({{site.baseurl}}/images/collections-overview.png)
 
